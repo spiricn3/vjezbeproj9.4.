@@ -1,0 +1,39 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.w3-teal{
+    display: flex;
+}
+
+table{
+    margin-top: 20px;
+    border: 1px solid black;
+}
+
+th{
+    background-color: lightskyblue !important;
+}
+
+.action-button:hover{
+    cursor: pointer;
+}
+
+.action-button{
+    width: fit-content; 
+}
+
+.add-button{
+    margin: 10px;
+    border: none;
+    background-color: #009688;
+    color:white;
+    padding: 5px 15px;
+}
+
+.button-wrapper{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+    padding: 9px;
+}
